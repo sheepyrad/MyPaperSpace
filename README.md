@@ -12,6 +12,10 @@ Follow me on Twitter for more updates: [@_RadBio_](https://x.com/_RadBio_) (wher
 https://youtube.com/playlist?list=PLyuQa9NuGTc_5PWnJKFamL5CTReaiQ-dp&si=3yX0V1R0XWj7kS2H
 
 ## 📚 Cool Links
+1. BindCraft: one-shot design of functional protein binders
+   [https://x.com/MartinPacesa/status/1841352636299170126](https://x.com/MartinPacesa/status/1841352636299170126)
+   [https://www.biorxiv.org/content/10.1101/2024.09.30.615802v1.full.pdf](https://www.biorxiv.org/content/10.1101/2024.09.30.615802v1.full.pdf)
+   [https://github.com/sheepyrad/BindCraft](https://github.com/sheepyrad/BindCraft)
 
 1.  The 7 Habits of Highly Successful Protein Therapeutics:
    [https://www.youtube.com/watch?v=M_i0vTceWns&t=1010s](https://www.youtube.com/watch?v=M_i0vTceWns&t=1010s)
