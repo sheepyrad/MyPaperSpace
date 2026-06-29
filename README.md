@@ -41,3 +41,30 @@ https://youtube.com/playlist?list=PLyuQa9NuGTc_5PWnJKFamL5CTReaiQ-dp&si=3yX0V1R0
 
 9. **Chai-1**  
    [https://www.chaidiscovery.com/blog/introducing-chai-1](https://www.chaidiscovery.com/blog/introducing-chai-1)
+
+10. **Beyond RDKit: Benchmarking the Rowan Agent Skill Against Experiment**
+   [https://www.k-dense.ai/blog/benchmarking-rowan-skill-chemistry](https://www.k-dense.ai/blog/benchmarking-rowan-skill-chemistry)
+
+11. **Paving the way for agents in biology** by Anthropic
+   [https://www.anthropic.com/research/agents-in-biology](https://www.anthropic.com/research/agents-in-biology)
+
+12. **gget virus**
+   [https://scverse.org/gget/en/virus.html](https://scverse.org/gget/en/virus.html)
+
+13. **Transplanting light-dependent reactions for mammalian eye photosynthesis**
+   [http://www.cell.com/cell/fulltext/S0092-8674(26)00469-1](http://www.cell.com/cell/fulltext/S0092-8674(26)00469-1)
+
+14. **Atlas of Predicted Protein Complex Structures Across Kingdoms**
+   [http://biopredictnavigator.cn/](http://biopredictnavigator.cn/)
+
+15. **How to design Antibodies**
+   [https://www.asimov.press/p/antibody-design](https://www.asimov.press/p/antibody-design)
+
+16. **Validation and analysis of 12,000 AI-driven CAR-T designs in the Bits to Binders competition**
+   [https://www.biorxiv.org/content/10.64898/2026.03.03.709355v2.full.pdf](https://www.biorxiv.org/content/10.64898/2026.03.03.709355v2.full.pdf)
+
+17. **Minibinder design is just not that hard**
+   [https://blog.escalante.bio/minibinder-design-is-just-not-that-hard/](https://blog.escalante.bio/minibinder-design-is-just-not-that-hard/)
+
+18. **Explaining how mutations affect AlphaFold predictions**
+   [https://www.biorxiv.org/content/10.64898/2025.12.30.697132v3.full.pdf](https://www.biorxiv.org/content/10.64898/2025.12.30.697132v3.full.pdf)
