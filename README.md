@@ -1,7 +1,7 @@
 # Protein Design
-A curated repository on methods for protein design and beyond! This repository contains an assortment of resources, papers, and tools that explore the rapidly evolving field of protein design. You'll find the latest advancements, software tools, and insightful research papers here.
+A repo of papers, articles and resources for protein design and beyond.
 
-Follow me on Twitter for more updates: [@_RadBio_](https://x.com/_RadBio_) (where you can find most papers in this repo!!)
+Twitter: [@_RadBio_](https://x.com/_RadBio_)
 
 ![Protein Design Image][proteinImage]
 
